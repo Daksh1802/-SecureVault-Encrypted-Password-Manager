@@ -39,13 +39,11 @@ Python 3.7+
 Install the required package:
 
 bash
-Copy
-Edit
+
 pip install cryptography
 Running the App
 bash
-Copy
-Edit
+
 python securevault.py
 Follow the on-screen instructions to sign up or sign in, then add or view credentials.
 
